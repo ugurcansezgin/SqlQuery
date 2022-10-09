@@ -3,6 +3,6 @@
 **&nbsp;SELECT - ANSI**
 
 - Alias kullanılarak istenilen alanların çekilmesi
-'git status'
+> select ContactName Adi, CompanyName SirketAdi,City Sehir  from Customers
 
 
