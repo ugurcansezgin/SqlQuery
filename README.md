@@ -1,8 +1,8 @@
 # SqlQuery
 
-`**#0969DASELECT - ANSI**`
+** SELECT - ANSI **
 
-- Alias kullanılarak istenilen alanların çekilmesi 
+- Alias kullanılarak istenilen alanların çekilmesi <br><br>
 `select ContactName Adi, CompanyName SirketAdi,City Sehir  from Customers`
 
 
